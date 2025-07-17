@@ -1,9 +1,18 @@
 import React from "react";
 
-export const Button = ({ children, className }: any) => {
+interface ButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElement> {
+  children: React.ReactNode;
+  className?: string;
+}
+
+export const Button: React.FC<ButtonProps> = ({ children, className = "", ...props }) => {
   return (
-    <button className={`transition px-4 py-2 rounded ${className}`}>
+    <button
+      {...props}
+      className={`transition px-4 py-2 rounded ${className}`}
+    >
       {children}
     </button>
   );
 };
+
