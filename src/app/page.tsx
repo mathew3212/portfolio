@@ -17,7 +17,7 @@ export default function Home() {
           transition={{ duration: 1 }}
         />
         <div>
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">Mithil Mathew</h1>
+          <h1 className="text-4xl md:text-5xl font-bold mb-4">Paradesi Mithil</h1>
           <p className="text-lg md:text-xl text-gray-300 mb-6">
             AI Developer ⚙️ | Cybersecurity Explorer 🔐 
           </p>
