@@ -112,6 +112,16 @@ export default function Home() {
             <strong>Artificial Intelligence Internship</strong> – Skill Dzire<br />
             <a href="https://github.com/mathew3212/Cirtificate/blob/main/P%20Mithil_certificate.pdf" target="_blank" className="text-indigo-400 hover:underline">View Certificate</a>
           </li>
+          <li>
+            <strong>Oracle AI Foundations</strong> – Oracle<br />
+            <a href="https://github.com/mathew3212/Cirtificate/blob/main/oracle%20AI%20Foundations.pdf" target="_blank" className="text-indigo-400 hover:underline">View Certificate</a>
+          </li>
+          
+           
+
+            
+          
+
         </ul>
       </motion.section>
       
