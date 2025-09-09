@@ -22,7 +22,7 @@ export default function Home() {
             AI Developer ⚙️ | Cybersecurity Explorer 🔐 
           </p>
           <Button className="bg-indigo-600 hover:bg-indigo-700 text-white px-6 py-2 rounded-lg shadow">
-            <a href="/Mithil_Resume.pdf" download>Resume</a>
+            <a href="/MITHIL.pdf" download>Resume</a>
           </Button>
         </div>
       </section>
